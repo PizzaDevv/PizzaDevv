@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Pretend I said something really catchy and funny here.
+
 <!--
 **smartclash/smartclash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
