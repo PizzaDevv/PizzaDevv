@@ -1,4 +1,4 @@
-![Keanu Reeves Hello There GIF](https://media.giphy.com/media/Kc2GKprlwHTTizRfmu/giphy.gif)
+![Keanu Reeves Hello There GIF](keanu.gif)
 
 Pretend I said something really catchy and funny here.
 
